@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-size: 15px;
+}
+
+.content {
+    max-width: 980px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.icon {
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+}
+
+.parent-div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 100vh;
+}
