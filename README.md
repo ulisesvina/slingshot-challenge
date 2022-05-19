@@ -2,7 +2,7 @@
 
 **Link to finished website:** [https://slingshot-challenge.vercel.app](https://slingshot-challenge.vercel.app)
 
-**Link to the demo video:** *to be finished*
+**Link to the demo video:** [https://www.youtube.com/watch?v=W98a6jZsKuo](https://www.youtube.com/watch?v=W98a6jZsKuo)
 
 For my Slingshot verification challenge I made a landing page for the YC Startup Coinbase, it falls in the category of Single-Page Applications (SPA), as it uses the `wouter` module to display components dinamically with the help of a header and footer for navigation. I used modern web techologies such as React, Vite and Tailwind CSS for the development of the website, which helped me out not only in the design of the project, but also on a better result overall.
 
