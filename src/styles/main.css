@@ -13,9 +13,8 @@
 }
 
 .icon {
-    display: flex;
-    flex-direction: row;
-    vertical-align: middle;
+    	display: inline-block;
+	vertical-align: middle;
 }
 
 .parent-div {
